@@ -126,7 +126,7 @@ form {
 .noTasks {
   font-size: 48px;
 }
-
+/* Responsive 374 a 425 */
 @media screen and (min-width:374px) and (max-width:425px){
   .mainCard{
     width: 70vw;
@@ -142,7 +142,7 @@ form {
     width: 100%;
   }
 }
-
+/* Responsive 768 a 100 */
 @media screen and (min-width:768px) and (max-width:1000px){
     .mainCard{
       width: 60vw;

@@ -108,4 +108,4 @@ function attachDeleteEvents() {
         button.addEventListener("click", () => handleDeleteClick(button.closest(".card")));
     });
 }
-
+//end

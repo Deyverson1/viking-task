@@ -36,7 +36,7 @@ const createTask = ((evento) => { //Creamos una funcion con todo el envento del 
     // console.log("crear tarea") //dentro de la funcio n debemos poner lo que deseamos que pase cuando se detecte que se ha realizado un click en el boton
 });  //nombre de la variable donde se encuentra el elemento
 // EL .addEventListener("click") 
-// Listener
+// Listenerr
 
 //Arrow funtions o funciones anonimas
 btn.addEventListener("click", createTask); //para el codigo quede mas limpio, agregamos toda la funcionalidad del envento a una funcion, y solo citando de nuevo la funcion podemos tener el codigo mucho mas limpio.
